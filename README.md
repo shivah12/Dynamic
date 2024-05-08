@@ -21,7 +21,7 @@ Dynamic is a web application designed for searching and rating movies. It provid
 
 ## Demo
 
-A live demo of the project is available at [demo.example.com](https://dynamic-five-mu.vercel.app/).
+A live demo of the project is available at [Dynamic](https://dynamic-five-mu.vercel.app/).
 
 ## Installation
 
